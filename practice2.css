@@ -1,0 +1,28 @@
+    div{
+        width: 500px;
+    height: 100px;
+    background-color: red; 
+    align-content: center;
+    }
+    h1{
+        text-align: center;
+        margin: 0;
+    }
+#middle{
+    height: 200px;
+    background-color: blue;
+}
+#circle{
+    background-color: white;
+    height:150px;
+    width: 150px;
+    border-radius: 50%;
+    position: relative;
+    top: -175px;
+    left: 175px;
+    max-width: fit-content;
+}
+#last{
+    position: relative;
+    top: -150px;
+}

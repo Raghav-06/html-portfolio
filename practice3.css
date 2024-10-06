@@ -1,0 +1,22 @@
+div{
+    height: 100px;
+    width: 150px;
+    display: inline-block;
+    border: 20px,solid,white;
+}
+
+img{
+    margin: 0;
+    height: 100px;
+    width: 150px;
+}
+p{
+    margin: 0;
+    font-weight: bold;
+}
+h2{
+    margin: 0;
+}
+h1{
+    margin: 50px;
+}

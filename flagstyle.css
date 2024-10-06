@@ -1,0 +1,36 @@
+
+#Red-part{
+    height: 150px;
+    width: 900px;
+    background-color: rgba(255, 0, 0, 0.838);
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+#blue-part{
+    height: 200px;
+    width: 900px;
+    background-color: rgba(0, 0, 255, 0.838);
+    
+}
+#white-circle{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    position: relative;
+    left: 375px;
+    top: 25px;
+    text-align: center;
+}
+#third{
+    height: 150px;
+    width: 900px;
+    background-color: rgba(255, 0, 0, 0.838);
+    
+}
+h1{
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}

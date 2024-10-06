@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    border: 0;
+}
+div{
+    width: 200px;
+    height: 200px;
+}
+#first{
+    background-color: blue;
+    border: black solid 20px;
+}
+#second
+{
+    background-color: green;
+    position: relative;
+    left: 240px;
+}
+ #third{
+    background-color: red;
+    position: absolute;
+    left: 40px;
+}

@@ -1,0 +1,71 @@
+h1{
+    font: bold;
+}
+#block
+{
+    background-color: red;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+#inline
+{
+    background-color: green;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+#inline-block
+{
+    background-color: blue;
+    display: inline-block;
+   width: 200px;
+   height: 200px;  
+}
+p{
+    color: white;
+}
+img{
+    height: 200px;
+    width: 200px;
+    float: left;
+    border-radius: 50%;
+    background-color: black;
+}
+#tiger
+{
+    height: 300px;
+    width: 500px;
+    background-color: brown;
+    float: left;
+}
+p{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+#lion
+{
+    height: 300px;
+    width: 500px;
+    background-color: coral;
+float: right;
+}
+footer{
+    background-color: purple;
+    color: white;
+    clear: left;
+    text-align: center;
+}
+h1{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-align: center;
+}
+@media (min-width:318px) and (max-width:418px)
+{
+    body{
+        background-color: green;
+    }
+}
